@@ -21,4 +21,4 @@ function nonRepeatingCharacter(s){
 
 const userInput = prompt("Enter a String");
 const result = nonRepeatingCharacter(userInput);
-console.log(result);
+alert(result);
